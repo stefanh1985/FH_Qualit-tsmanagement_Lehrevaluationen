@@ -106,6 +106,84 @@ Erst ab einer Mindestteilnehme*innenanzahl von 5 Personen kann eine solide Auswe
 Es ist sinnvoll die Evaluation in eine der letzten Sitzungen zu legen, so dass in der letzten Sitzung gemeinsam mit den Studierenden die Ergebnisse gemeinsam analysiert und reflektiert werden könne. Gerade die gemeinsam Reflexion erweist sich als besonders hilfreich zur eigenen Entwicklung.
 </details>
 
+### Vorbereitung und Durchführung des Feedbackgesprächs nach der Evaluation
+1. Planung und Durchführung des Feedbackgesprächs
+
+Vorbereitung:
+
+    Zeitpunkt der Lehrevaluation (LVE): etwa 3-4 Wochen vor Semesterende, spätestens jedoch in der vorletzten Sitzung.
+    Zeitpunkt des Feedbackgesprächs: direkt nach der LVE, spätestens in der letzten Sitzung.
+    Dauer: etwa 15 Minuten.
+
+Zur Vorbereitung auf das Gespräch:
+
+    Einen Moment nehmen, um die Ergebnisse des PDF-Reports durchzugehen und das Feedbackgespräch vorzubereiten:
+        Fokussieren auf Kernergebnisse, die besonders relevant erscheinen.
+        Nachdenken über unerwartete Rückmeldungen.
+        Aspekte identifizieren, die widersprüchlich oder wenig eindeutig sind, um mögliche Verbesserungen zu ermitteln.
+        Die eigenen Einschätzungen mit den Ergebnissen abgleichen und so mögliche Unterschiede erkennen.
+        Eigene Fragen ergänzen, die im Evaluationsbogen fehlen, um eine umfassendere Perspektive zu erhalten.
+
+Aufbereitung:
+
+    Den Studierenden können relevante Profillinien oder Freitextantworten aus dem Report gezeigt werden. Für anonyme Rückfragen können Tools wie Mentimeter hilfreich sein.
+
+2. Durchführung des Feedbackgesprächs
+
+    Zu Beginn verdeutlichen, dass die Rückmeldungen der Studierenden zur Lehrveranstaltung wertvoll sind.
+    Ausgewählte Ergebnisse präsentieren und vorbereitete Fragen an die Studierenden stellen.
+    Nach weiteren Einschätzungen und konstruktiven Verbesserungsvorschlägen fragen.
+    Diskutieren, wie die Rückmeldungen für die künftige Lehrpraxis genutzt werden.
+
+Doppelrolle als Feedbackempfängerin und Moderatorin
+
+    In der Doppelrolle aktiv zuhören und die Studierenden ermutigen, ihre Gedanken und Anregungen frei zu äußern, gleichzeitig den Dialog lenken, gezielte Fragen stellen und, falls nötig, Impulse für die Diskussion geben. Die Rolle als Moderator*in sollte dabei neutral und ohne Wertung sein. Ziel ist es, den Studierenden Raum für ihre Perspektiven zu geben.
+
+Die eigene Haltung ist entscheidend
+
+    Ein offenes und aufrichtiges Interesse am Feedback zeigen. Wichtig ist, das Feedback ernst zu nehmen und es in der Reflexion aufzunehmen, ohne sich zu verteidigen. Den Studierenden erläutern, was für die eigene Lehrpraxis mitgenommen wird. Es muss nicht immer eine unmittelbare Änderung folgen – ein Beispiel wäre etwa das Ziel, in Zukunft die Erwartungen und Anforderungen der Lehrveranstaltung transparenter zu gestalten.
+
+Gelassenheit als Schlüssel
+
+    Die Vielfalt der Rückmeldungen annehmen, die wertvolle Einblicke in die Wahrnehmung der Studierenden bieten. Es ist wichtig, den Kontext der Rückmeldungen zu beachten und die individuellen Perspektiven als subjektive Wahrnehmungen zu sehen, die keine absolute Bewertung der Lehrqualität darstellen.
+
+Tipps zur Gestaltung des Gesprächs
+
+    Anonymität bei Freitextantworten bewahren, bei unklaren Rückmeldungen gemeinsam nach deren Bedeutung fragen.
+    Keine suggestiven Fragen stellen.
+    Zustimmungsfragen bei individuellen Freitextantworten einbauen.
+    Die Studierenden im Feedback nicht beeinflussen.
+    Eine Vielzahl an Studierenden einbeziehen, um verschiedene Perspektiven zu erhalten.
+    Konkrete, konstruktive Rückmeldungen anregen, etwa durch Fragen zur Vorbereitung auf Prüfungen.
+    Die Rückmeldungen nebeneinanderstehen lassen und ohne Verteidigung annehmen.
+    Vergewissern, dass die Rückmeldung richtig verstanden wurde.
+
+Abschluss des Feedback-Prozesses
+
+Die wichtigsten Ergebnisse des Feedbacks dokumentieren und den Studierenden mitteilen, welche Punkte aufgegriffen und wie sie weiterverarbeitet werden. Daraus können direkte Maßnahmen entstehen, etwa klarere Zieldefinitionen, oder einfach Ideen für die künftige Gestaltung der Lehrveranstaltungen.
+
+Letztlich entscheidet jede*r Lehrende selbst, welche Rückmeldungen hilfreich sind und wie diese für die persönliche Lehrpraxis einfließen.
+
+Das Gespräch zur Rückmeldung über Lehrveranstaltungsevaluationen
+Feedback geben und annehmen ist ein zentrales Element im Hochschulalltag und für den gemeinsamen Lernprozess unerlässlich. Ein fester Bestandteil der Lehrqualität an der Pädagogika Fachhochschule (PFH) ist die standardisierte studentische Lehrveranstaltungsevaluation (LVE), die dabei hilft, die Perspektiven der Studierenden in die Lehre zu integrieren.
+
+Das Ziel ist es, eine Kultur der Rückmeldung an der PFH zu entwickeln, in der alle Beteiligten die Verantwortung für das Lern- und Lehrgeschehen aktiv mittragen und gemeinsam verbessern.
+
+Grundsätze für wirkungsvolles Feedback
+Feedback ist ein dialogischer Prozess, bei dem individuelle Wahrnehmungen und Perspektiven geteilt werden. Dieser Austausch, bestehend aus dem Geben und Empfangen von Feedback, kann mit Herausforderungen verbunden sein: Er kann emotional bewegen, Abwehrhaltungen auslösen und oft dazu führen, die eigene Sichtweise zu hinterfragen. Der Umgang mit Feedback setzt daher oft den bewussten Einsatz bestimmter Regeln voraus, um eine respektvolle und konstruktive Atmosphäre sicherzustellen.
+
+Durch einen achtsamen Austausch beeinflusst Feedback nachhaltig die Qualität der Beziehungen zwischen allen Beteiligten.
+
+Empfehlungen für das Annehmen von Feedback
+
+    Offenes Zuhören: Dem Feedbackgeber Aufmerksamkeit schenken und durch eine offene Haltung sowie aktives Zuhören das Interesse signalisieren.
+    Keine Rechtfertigungen: Auf direkte Verteidigungen oder Erklärungen der eigenen Handlungen verzichten und die Rückmeldung als Input aufnehmen.
+    Verstehen und Annehmen: Die Rückmeldung zunächst aufnehmen und ein Verständnis dafür entwickeln, auch wenn nicht alles unmittelbar akzeptiert wird.
+    Auf Widerspruch verzichten: Ein spontaner Widerspruch sollte vermieden werden; es geht in dieser Phase darum, den Standpunkt des Gegenübers zu hören, nicht darum, wer im Recht ist.
+    Rückfragen stellen: Falls bestimmte Aspekte unklar sind, offen nachfragen, um das Feedback voll zu verstehen.
+    Reflexion: Die Rückmeldung nachwirken lassen und über ihre Relevanz nachdenken.
+    Eigenes Fazit ziehen: Eigenständig entscheiden, wie die Rückmeldung in die eigene Arbeit einfließen soll und welche Veränderungen sie inspiriert.
+    Details im Kontext sehen: Nicht an Einzelheiten hängen bleiben, sondern die Rückmeldung im Gesamtzusammenhang betrachten und wertvolle Impulse erkennen.
 
 ## Evaluieren mittels Moodle
 
